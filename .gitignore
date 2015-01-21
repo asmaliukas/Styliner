@@ -27,3 +27,7 @@ npm-debug.log
 Thumbs.db
 Desktop.ini
 jshint.js
+
+#Ignore vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
